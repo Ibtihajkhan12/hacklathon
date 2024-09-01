@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav{
+    justify-content: end;
+    align-items: end;
+}
+
+.second{
+    display: flex;
+}
+.container{
+    margin-top: 60px; 
+}
+.right{
+    margin-left: 390px;
+    margin-top: 90px;
+}
+.left{
+    margin-left: 390px;
+    margin-top: 130px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.header li{
+    font-size: 20px;
+}
+.head2{
+    display: flex;
+    border: 3px solid black;
+    height: 70px;
+    width: 100px;
+    margin-left:1390px;
+    margin-top: 0px;
+}
+.boot{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.card{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 90px;
+}
+
+
